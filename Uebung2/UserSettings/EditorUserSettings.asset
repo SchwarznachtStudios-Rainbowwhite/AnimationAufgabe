@@ -9,7 +9,11 @@ EditorUserSettings:
       value: 5a08575f5207595a0f5d59741173094444164f7d7d2a23317c7a4465bbe1646d
       flags: 0
     RecentlyUsedSceneGuid-1:
+<<<<<<< HEAD
       value: 5406000006515e085b5c0d7249720f444f4f487e7f2a74682c794c67b3b3313b
+=======
+      value: 0000025607005d5d5a5e0e7245265a4447164e7d7a2b206574714c60b6b16c61
+>>>>>>> Übung2_Joel
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
